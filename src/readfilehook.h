@@ -51,7 +51,6 @@ typedef struct _AVR_RGB
 }
 AVR_RGB;
 
-
 int get_screen();
 
 void send_input(DWORD windows_msg);
