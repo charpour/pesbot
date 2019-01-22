@@ -1,11 +1,11 @@
 # pesbot
-Simulates BAL, Master League and Myclub Division Sim modes
+Simulates BAL, Master League and Myclub Division Sim modes. In SIM mode contracts are auto renewed.
 
 ## Install
 Download [here](https://github.com/4A47/pesbot/releases/download/v0.1/pesbot.rar) and extract pesbot folder.
 
 ## Requirements
-The bot uses PS4 RemotePlay app to send input to the game, you can download it [here](https://remoteplay.dl.playstation.net/remoteplay). Unfortunately the app is Windows 10 only.
+The bot uses PS4 RemotePlay app to send input to the game, you can download it [here](https://remoteplay.dl.playstation.net/remoteplay). Unfortunately the app is for Windows 8.1 & 10 only.
 
 ## Usage
 Run from CMD in extracted folder.
@@ -25,4 +25,4 @@ Example:
 
 For sim mode make sure to start the bot while on the MyClub Club House tab as shown here:
 
-[img](https://i.postimg.cc/vZ1Gybp1/Untitled.png)
+![img](https://i.postimg.cc/vZ1Gybp1/Untitled.png)
